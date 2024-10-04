@@ -1,0 +1,14 @@
+.card-container-home{
+    width: 50rem !important;
+}
+.card-container-home-image{
+    width: 25rem !important;
+}
+
+.card-container-projects{
+    width: 25rem !important;
+}
+.card-container-project-image{
+    width: 25rem !important;
+    padding: 8rem !important;
+}
